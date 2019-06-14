@@ -1,0 +1,30 @@
+    3    5    0
+
+    4    6    0
+
+   17   33    0
+
+
+-> Total time for task 1 = 0.009975 seconds
+
+-> Total time for task 2 = 0.001993 seconds
+
+->Apparently, Total time for Multi-thread row multiplication is way smaller than element by element technique
+
+ ->Task 1 Used Threads : 9 
+
+ - Thread 1 ID : 1
+ - Thread 2 ID : 2
+ - Thread 3 ID : 3
+ - Thread 4 ID : 4
+ - Thread 5 ID : 5
+ - Thread 6 ID : 6
+ - Thread 7 ID : 7
+ - Thread 8 ID : 8
+ - Thread 9 ID : 9
+
+ ->Task 2 Used Threads : 3 
+
+ - Thread 1 ID : 10
+ - Thread 2 ID : 11
+ - Thread 3 ID : 12
